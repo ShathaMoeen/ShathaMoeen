@@ -1,57 +1,71 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Shatha Jadalhaq — Data Science, Data Engineering and AI. From raw data to intelligent possibilities." />
+  <img src="assets/header.svg" width="100%" alt="Shatha Jadalhaq — Data Science, Data Engineering and AI" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1200&amp;color=B6A1FF&amp;center=true&amp;vCenter=true&amp;width=850&amp;height=55&amp;lines=Hi%2C+I%27m+Shatha+%E2%9C%A8;Data+Science+%7C+Data+Engineering+%7C+AI;Turning+messy+data+into+meaningful+solutions" alt="Hi, I’m Shatha. Data Science, Data Engineering and AI. Turning messy data into meaningful solutions." />
+  <a href="#about">About</a> &nbsp; / &nbsp; <a href="#impact">Impact</a> &nbsp; / &nbsp; <a href="#projects">Projects</a> &nbsp; / &nbsp; <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp; <a href="https://shatha-portfolio-ashy.vercel.app">Portfolio ↗</a>
 </p>
 
 <p align="center">
-  <a href="https://shatha-portfolio-ashy.vercel.app">Explore my portfolio ↗</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;pause=1800&amp;color=B6A1FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Good+data.+Thoughtful+models.+Useful+outcomes.;Collect+%E2%86%92+Refine+%E2%86%92+Model+%E2%86%92+Deliver" alt="Good data. Thoughtful models. Useful outcomes. Collect, refine, model, deliver." />
 </p>
 
-### 👩🏻‍💻 About Me
+<a id="about"></a>
+### 01 — The person behind the pipelines
 
-I'm **Shatha**, a Data Science and Artificial Intelligence graduate who enjoys connecting the entire data journey: collecting messy data, building reliable pipelines, and turning it into useful analytics and intelligent applications.
+Hi, I'm **Shatha** 👋 A **Data Science & Artificial Intelligence graduate** building across data engineering, analytics, machine learning, and NLP.
 
-My hands-on experience spans **Python, SQL, relational databases, ETL, machine learning, and NLP**. I care about what happens before a model is trained just as much as what happens after it is deployed.
+I enjoy the entire journey: finding the right data, giving it structure, exploring its patterns, and building something useful with it. My projects connect **reliable data foundations** with **intelligent applications**.
 
-🔭 **Building:** data pipelines, analytics projects, and intelligent applications.  
-🧠 **Interested in:** machine learning, NLP, and recommendation systems.  
-🛠️ **My approach:** collect → clean → validate → model → deliver.  
-🌱 **Always learning:** through hands-on projects and experimentation.
+> **My mindset:** understand the problem → question the data → build with purpose.
 
-```python
-my_focus = {
-    "data":   ["ingestion", "transformation", "validation"],
-    "build":  ["ETL pipelines", "relational databases", "APIs"],
-    "learn":  ["machine learning", "deep learning", "NLP"],
-    "goal":   "Make data useful. Make systems reliable."
-}
-```
+<a id="impact"></a>
+### 02 — Built with real data
 
-### ⚡ From Data to Impact
+<img src="assets/impact.svg" width="100%" alt="Internship: over 59,000 raw records processed into 29,000 validated records; end-to-end ETL, PostgreSQL and Docker." />
 
-**Data Science & AI Specialist Intern · Beauty Cops**  
+**Beauty Cops · Data Science & AI Specialist Intern**  
 August – December 2025
 
-| Data at scale | Data foundations | Delivery |
-| :--- | :--- | :--- |
-| **59,000+** raw records processed into **29,000** validated records | PostgreSQL schemas, ERDs, integrity rules, and end-to-end ETL | Docker deployment on DigitalOcean and backend–frontend integration |
+Contributed to the platform's technical foundation from scratch: relational schemas and ERDs, automated data collection, cleaning and validation pipelines, API integration, and Docker deployment on DigitalOcean.
 
-I contributed to building the platform's technical foundation from scratch, including data collection, cleaning, validation, web scraping, and database design.
+<a id="projects"></a>
+### 03 — A few things I've built
 
-### 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🧠 DataMind AI</h3>
+<p>A bilingual multi-agent platform for data analysis, visualization, and retrieval-augmented generation.</p>
+<p><code>AI Agents</code> <code>RAG</code> <code>Analytics</code></p>
+<a href="https://github.com/ShathaMoeen/datamind-ai">Explore project ↗</a>
+</td>
+<td width="50%" valign="top">
+<h3>🎓 Baseera</h3>
+<p>Academic advising with GPA tracking, student performance analytics, and AI course recommendations. My role: backend development.</p>
+<p><code>Python</code> <code>MySQL</code> <code>BERT</code> <code>Flask</code></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>👁️ CIFAR-10 Classification</h3>
+<p>Exploring image classification through CNNs, data augmentation, hyperparameter tuning, and model evaluation.</p>
+<p><code>PyTorch</code> <code>torchvision</code> <code>CNN</code></p>
+<a href="https://github.com/ShathaMoeen/-CIFAR10-Image-Classification.">Explore project ↗</a>
+</td>
+<td width="50%" valign="top">
+<h3>🫀 Heart Disease Prediction</h3>
+<p>An academic ML project exploring feature engineering, dimensionality reduction, and predictive modeling.</p>
+<p><code>scikit-learn</code> <code>TensorFlow</code> <code>PCA</code></p>
+<a href="https://github.com/ShathaMoeen/Heart-Disease-Prediction">Explore project ↗</a>
+</td>
+</tr>
+</table>
 
-| Project | What I explored | Tools |
-| :--- | :--- | :--- |
-| [**DataMind AI ↗**](https://github.com/ShathaMoeen/datamind-ai) | Bilingual multi-agent platform for data analysis, visualization, and RAG | AI agents · RAG · Analytics |
-| **Baseera · Academic Advising** | Backend development, GPA tracking, performance analytics, and AI course recommendations | Python · MySQL · Flask · BERT · Plotly |
-| [**CIFAR-10 Classification ↗**](https://github.com/ShathaMoeen/-CIFAR10-Image-Classification.) | CNN image classification, data augmentation, and hyperparameter tuning | PyTorch · torchvision · CNN |
-| [**Heart Disease Prediction ↗**](https://github.com/ShathaMoeen/Heart-Disease-Prediction) | Academic ML project exploring prediction, feature engineering, and dimensionality reduction | scikit-learn · TensorFlow · PCA |
-| [**Stock & Revenue Dashboard ↗**](https://github.com/ShathaMoeen/IBM-Stock-Revenue-Dashboard) | Financial data analysis and visualization | Jupyter Notebook · Analytics |
+<p align="right"><a href="https://github.com/ShathaMoeen?tab=repositories">More experiments & projects ↗</a></p>
 
-### 🛠️ Tech Stack
+<a id="toolbox"></a>
+### 04 — My working toolbox
 
 **Languages & Data**
 
@@ -85,19 +99,6 @@ I contributed to building the platform's technical foundation from scratch, incl
   <img src="https://img.shields.io/badge/ETL%20Pipelines-237D72?style=for-the-badge" alt="ETL Pipelines" />
 </p>
 
-<details>
-<summary><b>Explore my skills in more detail</b></summary>
-
-
-| Area | Technologies & methods |
-| :--- | :--- |
-| **Data engineering** | Python · SQL · PostgreSQL · MySQL · MongoDB · ETL/ELT · Docker |
-| **Data preparation** | Pandas · NumPy · Data cleaning · Transformation · Validation · Schema design |
-| **Machine learning & NLP** | scikit-learn · TensorFlow · PyTorch · CNN · BERT · Recommendation systems |
-| **Analytics** | Power BI · Tableau · Plotly · Matplotlib · Seaborn · EDA |
-| **Backend & automation** | Flask · API integration · BeautifulSoup · Scrapy · Automation scripts |
-
-</details>
 
 <details>
 <summary><b>🎓 Selected Certifications & Learning</b></summary>
@@ -111,13 +112,12 @@ I contributed to building the platform's technical foundation from scratch, incl
 
 </details>
 
-### 🔗 Explore More
-
-<p align="center">
-  <a href="https://shatha-portfolio-ashy.vercel.app"><img src="https://img.shields.io/badge/My_Portfolio-B6A1FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=151025" alt="Visit my portfolio" /></a>
-  <a href="https://github.com/ShathaMoeen?tab=repositories"><img src="https://img.shields.io/badge/My_Projects-77EAD1?style=for-the-badge&amp;logo=github&amp;logoColor=102520" alt="Explore my repositories" /></a>
-</p>
 
 ---
 
-<p align="center"><b>Curious about data. Intentional about quality. Always building.</b><br /><br /><a href="https://github.com/ShathaMoeen">Explore my work ↗</a></p>
+<p align="center">
+  <b>Curiosity starts the question. Data helps build the answer.</b>
+</p>
+<p align="center">
+  <a href="https://shatha-portfolio-ashy.vercel.app"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-B6A1FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=151025" alt="Explore my portfolio" /></a>
+</p>
