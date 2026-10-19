@@ -1,26 +1,40 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Shatha Jadalhaq — Data Science, Data Engineering and AI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=30&amp;duration=2800&amp;pause=1500&amp;color=E897CF&amp;center=true&amp;vCenter=true&amp;width=1000&amp;height=80&amp;lines=Hi%2C+I%27m+Shatha+%F0%9F%91%8B;A+Data+Scientist+with+a+curious+mind;I+build+data+pipelines+%26+AI+applications;Exploring+Machine+Learning+%26+NLP;Welcome+to+my+data+playground+%E2%9C%A8" alt="Hi, I'm Shatha. A Data Scientist with a curious mind. I build data pipelines and AI applications, exploring Machine Learning and NLP." />
 </p>
 
 <p align="center">
-  <a href="#about">About</a> &nbsp; / &nbsp; <a href="#impact">Impact</a> &nbsp; / &nbsp; <a href="#projects">Projects</a> &nbsp; / &nbsp; <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp; <a href="https://shatha-portfolio-ashy.vercel.app">Portfolio ↗</a>
+  <img src="assets/header.svg" width="100%" alt="Shatha's Data Playground — A little curiosity. A world of possibilities. Data Science, Data Engineering and AI." />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;pause=1800&amp;color=B6A1FF&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Good+data.+Thoughtful+models.+Useful+outcomes.;Collect+%E2%86%92+Refine+%E2%86%92+Model+%E2%86%92+Deliver" alt="Good data. Thoughtful models. Useful outcomes. Collect, refine, model, deliver." />
+  <a href="#about">✦ Meet Shatha</a> &nbsp; · &nbsp; <a href="#impact">⚡ Real Impact</a> &nbsp; · &nbsp; <a href="#projects">🚀 Project Lab</a> &nbsp; · &nbsp; <a href="#toolbox">🎨 Toolbox</a>
 </p>
 
 <a id="about"></a>
-### 01 — The person behind the pipelines
+### 🪄 Behind the curiosity
 
 Hi, I'm **Shatha** 👋 A **Data Science & Artificial Intelligence graduate** building across data engineering, analytics, machine learning, and NLP.
 
 I enjoy the entire journey: finding the right data, giving it structure, exploring its patterns, and building something useful with it. My projects connect **reliable data foundations** with **intelligent applications**.
 
-> **My mindset:** understand the problem → question the data → build with purpose.
+<p align="center">
+  <img src="https://img.shields.io/badge/Curiosity-EAB0DA?style=for-the-badge&amp;logoColor=242040" alt="Curiosity" />
+  <img src="https://img.shields.io/badge/Clean_Data-BBABFA?style=for-the-badge" alt="Clean Data" />
+  <img src="https://img.shields.io/badge/Useful_AI-80E7D5?style=for-the-badge" alt="Useful AI" />
+  <img src="https://img.shields.io/badge/Always_Learning-F5D391?style=for-the-badge" alt="Always Learning" />
+</p>
+
+```python
+class Shatha:
+    focus = ["Data Science", "Data Engineering", "AI"]
+    enjoys = ["finding patterns", "building pipelines", "solving problems"]
+
+    def create(self, curiosity, data):
+        return curiosity + data + "a lot of experimentation ✨"
+```
 
 <a id="impact"></a>
-### 02 — Built with real data
+### ⚡ A little code, a real impact
 
 <img src="assets/impact.svg" width="100%" alt="Internship: over 59,000 raw records processed into 29,000 validated records; end-to-end ETL, PostgreSQL and Docker." />
 
@@ -30,7 +44,7 @@ August – December 2025
 Contributed to the platform's technical foundation from scratch: relational schemas and ERDs, automated data collection, cleaning and validation pipelines, API integration, and Docker deployment on DigitalOcean.
 
 <a id="projects"></a>
-### 03 — A few things I've built
+### 🚀 Welcome to my project lab
 
 <table>
 <tr>
@@ -65,9 +79,9 @@ Contributed to the platform's technical foundation from scratch: relational sche
 <p align="right"><a href="https://github.com/ShathaMoeen?tab=repositories">More experiments & projects ↗</a></p>
 
 <a id="toolbox"></a>
-### 04 — My working toolbox
+### 🎨 The tools behind the ideas
 
-**Languages & Data**
+**🪻 Data foundations**
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
@@ -79,7 +93,7 @@ Contributed to the platform's technical foundation from scratch: relational sche
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
 </p>
 
-**Machine Learning & NLP**
+**🧠 Intelligence & discovery**
 
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" />
@@ -89,7 +103,7 @@ Contributed to the platform's technical foundation from scratch: relational sche
   <img src="https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge" alt="NLP" />
 </p>
 
-**Build, Visualize & Deploy**
+**🛠️ From idea to application**
 
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
@@ -116,7 +130,7 @@ Contributed to the platform's technical foundation from scratch: relational sche
 ---
 
 <p align="center">
-  <b>Curiosity starts the question. Data helps build the answer.</b>
+  <b>Made of curiosity, coffee, and a few more experiments. ✨</b>
 </p>
 <p align="center">
   <a href="https://shatha-portfolio-ashy.vercel.app"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-B6A1FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=151025" alt="Explore my portfolio" /></a>
