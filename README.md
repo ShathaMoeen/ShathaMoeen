@@ -114,6 +114,31 @@ Contributed to the platform's technical foundation from scratch: relational sche
 </p>
 
 
+**📊 Visualization & exploration**
+
+<p>
+<img src="https://img.shields.io/badge/Tableau-7062B4?style=for-the-badge" alt="Tableau" />
+<img src="https://img.shields.io/badge/Matplotlib-516CB5?style=for-the-badge" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-399B9F?style=for-the-badge" alt="Seaborn" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
+</p>
+
+**⚙️ Automation & integration**
+
+<p>
+<img src="https://img.shields.io/badge/BeautifulSoup-A368A1?style=for-the-badge" alt="BeautifulSoup" />
+<img src="https://img.shields.io/badge/Scrapy-429B83?style=for-the-badge" alt="Scrapy" />
+<img src="https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/React-257B99?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&amp;logo=digitalocean&amp;logoColor=white" alt="DigitalOcean" />
+<img src="https://img.shields.io/badge/REST%20APIs-8D67C1?style=for-the-badge" alt="REST APIs" />
+<img src="https://img.shields.io/badge/ELT-C779A2?style=for-the-badge" alt="ELT" />
+</p>
+
+**🧩 Methods I work with**
+
+Feature engineering · Hyperparameter tuning · Data augmentation · Supervised & unsupervised learning · Recommendation systems · Exploratory data analysis · Data validation · Relational schema design · PCA · K-means
+
 <details>
 <summary><b>🎓 Selected Certifications & Learning</b></summary>
 
