@@ -158,5 +158,5 @@ Feature engineering · Hyperparameter tuning · Data augmentation · Supervised 
   <b>Made of curiosity, coffee, and a few more experiments. ✨</b>
 </p>
 <p align="center">
-  <a href="https://shatha-portfolio-ashy.vercel.app"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-B6A1FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=151025" alt="Explore my portfolio" /></a>
+  <a href="https://shatha-portfolio-ashy.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-B6A1FF?style=for-the-badge&amp;logo=vercel&amp;logoColor=151025" alt="Explore my portfolio" /></a>
 </p>
